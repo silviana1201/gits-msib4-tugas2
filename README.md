@@ -1,1 +1,3 @@
-# gits-msib4-tugas2
+Nama : silviana
+
+kampus : universitas teknologi matarm
